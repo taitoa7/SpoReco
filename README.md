@@ -1,2 +1,2 @@
 # sportrack
-合同会社 スポルトラック
+合同会社 SpoReco
